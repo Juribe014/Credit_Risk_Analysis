@@ -13,8 +13,6 @@ This analysis looks at credit card risk. To accomplish this, the following libra
 
 ## Results:
 
-### Deliverable 1 
-
 1. BalancedRandomForestClassifier 
 
 ![RandomOverSampler ](https://user-images.githubusercontent.com/104809098/193482894-e08257cd-9dcb-4f4e-9d2a-dca86b94b487.png)
